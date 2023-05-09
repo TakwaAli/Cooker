@@ -23,7 +23,7 @@ function beefDetails(){
       </div>
       <div class="col-lg-4 col-sm-12 col-md-12  mt-5 ">
        <h1 class="mt-5">${beefArr[i].title}</h1>
-       <a class="text-decoration-none way" href="${beefArr[i].source_url}">Click to know the way</a>
+       <a class="text-decoration-none way footer-color" href="${beefArr[i].source_url}">Click to know the way</a>
       </div>
 
       `
