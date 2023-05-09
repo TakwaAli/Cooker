@@ -1,0 +1,16 @@
+.size{
+    font-size: 38px;
+    color: rgb(118, 255, 118);
+}
+.size:hover{
+    color: rgb(152, 155, 152); 
+}
+#imageCurrsor{
+    cursor: pointer;
+}
+.way{
+    font-size: 32px;
+}
+.footer-color{
+    color: rgb(118, 255, 118); 
+}
